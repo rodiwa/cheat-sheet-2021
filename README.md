@@ -14,11 +14,6 @@ Curated links useful for last minute interview prep lookups and general everyday
 - https://www.guru99.com/linux-commands-cheat-sheet.html#6
 - https://hackr.io/blog/linux-cheat-sheet
 
-## System Design & Archtiecture
-- https://github.com/donnemartin/system-design-primer
-- http://aosabook.org/en/index.html
-- https://docs.microsoft.com/en-us/azure/architecture/
-
 ## MicroServices
 - https://blog.bernd-ruecker.com/the-microservice-workflow-automation-cheat-sheet-fc0a80dc25aa
 
@@ -43,8 +38,31 @@ Curated links useful for last minute interview prep lookups and general everyday
 ## JavaScript
 - https://overapi.com/javascript
 
+## Git
+- https://education.github.com/git-cheat-sheet-education.pdf
+
 ## Machine Learning Algorithms
 - https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet
 
+## All Data Structures Interactive Map
+- https://coggle.it/diagram/W5E5tqYlrXvFJPsq/t/master-the-interview-click-here-for-course-link?present=1
+
 ## Cloud Services from big 3 - AWS, GCP, AZ
 - https://searchcloudcomputing.techtarget.com/feature/A-cloud-services-cheat-sheet-for-AWS-Azure-and-Google-Cloud
+
+-- End --
+
+---
+# Reading List
+
+## System Design Concepts
+- https://www.freecodecamp.org/news/systems-design-for-interviews/
+- https://github.com/donnemartin/system-design-primer
+
+## Architecture
+- http://aosabook.org/en/index.html
+- https://docs.microsoft.com/en-us/azure/architecture/
+
+## Git Branching Model & Concepts
+- https://nvie.com/posts/a-successful-git-branching-model/
+- https://git-scm.com/book/en/v2
