@@ -62,6 +62,7 @@ Curated links useful for last minute interview prep lookups and general everyday
 ## Architecture
 - http://aosabook.org/en/index.html
 - https://docs.microsoft.com/en-us/azure/architecture/
+- https://github.com/donnemartin/system-design-primer#system-design-interview-questions-with-solutions
 
 ## Git Branching Model & Concepts
 - https://nvie.com/posts/a-successful-git-branching-model/
