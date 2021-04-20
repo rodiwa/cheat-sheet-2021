@@ -1,7 +1,7 @@
 # Cheat Sheet 2021
 Curated links useful for last minute interview prep lookups and general everyday use.
 
----
+
 `Pro Tip` - Bookmark; and use [annotator tools](https://chrome.google.com/webstore/detail/weava-highlighter-pdf-web/cbnaodkpfinfiipjblikofhlhlcickei?hl=en) to highlight content for quick glance.
 
 ## Python
@@ -52,8 +52,8 @@ Curated links useful for last minute interview prep lookups and general everyday
 
 -- End --
 
----
-# Reading List
+
+# Additional Reading List
 
 ## System Design Concepts
 - https://www.freecodecamp.org/news/systems-design-for-interviews/
@@ -64,6 +64,6 @@ Curated links useful for last minute interview prep lookups and general everyday
 - https://docs.microsoft.com/en-us/azure/architecture/
 - https://github.com/donnemartin/system-design-primer#system-design-interview-questions-with-solutions
 
-## Git Branching Model & Concepts
+## Git Branching Strategy & Concepts
 - https://nvie.com/posts/a-successful-git-branching-model/
 - https://git-scm.com/book/en/v2
