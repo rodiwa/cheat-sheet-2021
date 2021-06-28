@@ -4,11 +4,6 @@ Curated links useful for last minute interview prep lookups and general everyday
 
 `Pro Tip` - Bookmark; and use [annotator tools](https://chrome.google.com/webstore/detail/weava-highlighter-pdf-web/cbnaodkpfinfiipjblikofhlhlcickei?hl=en) to highlight content for quick glance.
 
-## Python
-- https://overapi.com/python
-- https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf
-- https://websitesetup.org/wp-content/uploads/2020/04/Python-Cheat-Sheet.png
-- https://www.pythoncheatsheet.org/
 
 ## Linux
 - https://www.guru99.com/linux-commands-cheat-sheet.html#6
@@ -18,6 +13,8 @@ Curated links useful for last minute interview prep lookups and general everyday
 - https://blog.bernd-ruecker.com/the-microservice-workflow-automation-cheat-sheet-fc0a80dc25aa
 
 ## Ansible
+- https://www.middlewareinventory.com/blog/ansible-ad-hoc-commands/
+- https://www.middlewareinventory.com/blog/ansible-playbook-example/
 - https://www.digitalocean.com/community/cheatsheets/how-to-use-ansible-cheat-sheet-guide
 
 ## Terraform
@@ -31,6 +28,12 @@ Curated links useful for last minute interview prep lookups and general everyday
 ## Kubernetes
 - https://kubernetes.io/docs/reference/kubectl/cheatsheet/
 - https://linuxacademy.com/site-content/uploads/2019/04/Kubernetes-Cheat-Sheet_07182019.pdf
+
+## Python
+- https://overapi.com/python
+- https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf
+- https://websitesetup.org/wp-content/uploads/2020/04/Python-Cheat-Sheet.png
+- https://www.pythoncheatsheet.org/
 
 ## Node
 - https://overapi.com/nodejs
@@ -63,6 +66,11 @@ Curated links useful for last minute interview prep lookups and general everyday
 - http://aosabook.org/en/index.html
 - https://docs.microsoft.com/en-us/azure/architecture/
 - https://github.com/donnemartin/system-design-primer#system-design-interview-questions-with-solutions
+
+## Python For DevOps
+- https://realpython.com/tutorials/devops/
+- https://realpython.com/learning-paths/python-devops/
+- https://www.geeksforgeeks.org/os-module-python-examples/?ref=lbp (see all under "Advanced")
 
 ## Git Branching Strategy & Concepts
 - https://nvie.com/posts/a-successful-git-branching-model/
